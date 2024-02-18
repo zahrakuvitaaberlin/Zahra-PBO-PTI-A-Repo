@@ -64,10 +64,13 @@ Dino senpai yang baik hati memberikan deadline 7 hari sejak tugas ini dipublish 
 - Bikin folder baru dalam folder Tugas 1 dan beri nama folder tersebut ```NIM - Nama Panggilan```
 - Upload hasil tugas kamu beserta dengan file README.md yang memiliki isi dengan [template yang sudah ditentukan](./22xxx%20-%20Devan/README.md) ke dalam folder yang telah kamu baru buat
 - Setelah submisi kamu sudah terupload, kumpulkan link repository milik kamu (yang di fork) ke classroom
-- Jangan ganti branchnya!
+
+## NOTES 
+- Jangan ganti branchnya
+- Apabila kamu ingin membuat file ```.gitignore```, letakkan di folder kamu upload tugas
 
 ## 💯 Total Bonus Points
-Apabila mengikuti semua aspek bonus yaitu mengerjakan opsi 2 dan memenuhi semua optional requirements, maka akan mendapatkan poin bonus sebesar **50 poin** yang bisa membantu kamu dalam penilaian tengah praktikum atau penilaian akhir praktikum
+Apabila kamu mengikuti semua aspek bonus yaitu mengerjakan opsi 2 dan memenuhi semua optional requirements, maka akan mendapatkan poin bonus sebesar **50 poin** yang bisa membantu kamu dalam penilaian tengah praktikum atau penilaian akhir praktikum
 
 ## 👥 Contacts
 
