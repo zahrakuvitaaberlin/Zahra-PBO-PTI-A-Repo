@@ -1,8 +1,8 @@
 # 📁 Tugas 1 : Mengulang Materi PEMDAS
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Zahra Kuvita Aberlin          
+NIM  : 235150600111005
 
 ## 📤 Submission
 
