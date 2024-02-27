@@ -8,7 +8,7 @@ NIM  : 22xxxxxx
 
 ### Template utk opsi tugas 1
 Opsi Tugas : 1        
-Aplikasi / Webapp / Game yang ditiru : Game tic tac toe    
+Aplikasi / Webapp / Game yang ditiru : Game memasukkan huruf x dalam kotak  
 Fitur yang ditiru : fitur A     
 
 
