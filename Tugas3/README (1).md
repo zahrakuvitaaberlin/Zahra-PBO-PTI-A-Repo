@@ -1,18 +1,18 @@
 # 📁 Tugas 3 : Class Diagram
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : ZAHRA KUVITA ABERLIN             
+NIM  : 235150600111005
 
 ## 📤 Submission
 
 Tema yang dipilih : 
 Class Diagram yang dibuat : 
-1. Class Diagram 1
-2. Class Diagram 2
-dst
+1. Class Siswa
+2. Class Guru
+3. Class Staf TU
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/uW7Ief7GeeI?feature=shared
 
