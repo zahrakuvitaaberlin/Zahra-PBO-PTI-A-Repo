@@ -1,31 +1,19 @@
 # 📁 Tugas 4 : Constructor, Instance Method & Method Overloading
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Zahra Kuvita Aberlin            
+NIM  : 235150600111005
 
 ## 📤 Submission
 
 Tema yang dipilih : 
 Class Diagram yang dibuat : 
-1. Class Diagram 1
-2. Class Diagram 2
-dst
-
-## Implementasi CRUD
-
-Gunakan template ini apabila kamu mengerjakan optional requirements
-
-| Aspek | Penjelasan    |     
-| :---:   | :---: | 
-| Create | -   | 
-| Read | -   | 
-| Update | -   | 
-| Delete | -   | 
-
+1. class Guru
+2. class siswa
+3. class stafTU
 
 
 ## 🔗 Link Penjelasan Tugas
+https://youtu.be/9WQyY4Frims?si=KG-S7Lk1uqR93iB2
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
