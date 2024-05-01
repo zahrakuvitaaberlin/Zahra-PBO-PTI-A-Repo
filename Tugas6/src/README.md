@@ -1,10 +1,10 @@
 # 📁 Tugas 6 : Inheritance
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Zahra Kuvita Aberlin             
+NIM  : 235150600111005
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/XYAo7oTpnhg?si=0XB64puN0DI8myCm
 
