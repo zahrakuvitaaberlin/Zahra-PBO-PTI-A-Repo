@@ -1,10 +1,10 @@
 # 📁 Tugas 7 : Polymorphisme
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Zahra Kuvita Aberlin            
+NIM  : 235150600111005
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/CAoGAj6oXH0?si=1DToDKpm6hzIOBgb
 
